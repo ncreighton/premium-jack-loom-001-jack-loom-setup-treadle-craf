@@ -1,0 +1,2 @@
+# premium-jack-loom-001-jack-loom-setup-treadle-craf
+Stop losing track of your treadle sequences and warping notes—transform your weaving workflow with a dedicated digital hub that keeps every pattern, draft, and project at your fingertips.  This Notion template solves the chaos of managing multiple jack loom projects by providing a structured system for recording setup details, treadle tie-ups, and
